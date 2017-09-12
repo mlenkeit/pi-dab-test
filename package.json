@@ -1,0 +1,11 @@
+{
+  "name": "pi-dab-test",
+  "private": true,
+  "version": "0.1.0",
+  "keywords": [],
+  "author": "Maximilian Lenkeit",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "*"
+  }
+}
